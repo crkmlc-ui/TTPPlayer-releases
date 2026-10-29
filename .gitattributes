@@ -1,0 +1,2 @@
+# Empty source archives on GitHub Releases (zip/tar links stay; no repo contents inside).
+* export-ignore
